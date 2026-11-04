@@ -1,0 +1,1 @@
+{"plugins":[{"source":"plugins/control","name":"fixture-control"},{"source":"plugins/large-asset","name":"fixture-large-asset"},{"source":"plugins/nested-json","name":"fixture-nested-json"},{"source":"plugins/desc-2048","name":"fixture-desc-2048"},{"source":"plugins/desc-2049","name":"fixture-desc-2049"},{"source":"plugins/desc-200k","name":"fixture-desc-200k"}]}
